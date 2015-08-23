@@ -1,0 +1,194 @@
+div {
+	border: 1px solid #aaa;
+}
+
+img {
+	border: 1px solid #aaa;
+}
+
+.navbar {
+	height: 70px;
+	background-color: #E7F4F5;
+	font-family: 'Raleway', sans-serif;
+}
+
+.site_name {
+	float: left;
+	display: inline-block;
+	vertical-align: middle;
+	line-height: 70px;
+	padding: 0 30px;
+	font-size: 24px;
+	font-weight: bold;
+	color: #521B1A;
+}
+
+.elements_right {
+	display: inline-block;
+	float: right;
+	line-height: 70px;
+}
+
+.elements_right img {
+	width: 35px;
+	height: 35px;
+	vertical-align: middle;
+}
+
+.elements_right h3 {
+	display: inline-block;
+	font-size: 16px;
+	vertical-align: middle;
+	padding-right: 20px;
+	text-align: center;
+}
+
+.elements_right .cta-button {
+	display: inline-block;
+	font-size: 18px;
+	vertical-align: middle;
+	padding: 0 35px;
+	text-align: center;
+	background: #F5564E;
+	color: white;
+	font-weight: 700;
+}
+
+.product_image img{
+	width: 186px;
+	height: 130px;
+}
+
+.viking_store_bg img {
+	display: block;
+	margin-left: auto;
+	margin-right: auto;
+}
+
+.big_title h2 {
+	text-align: center;
+	font-size: 50px;
+	font-family: 'Raleway', sans-serif;
+	color: white;
+}
+
+.big_title {
+	background: #222;
+	padding: 50px;
+}
+
+.middle_title h3{
+	text-align: center;
+	font-size: 30px;
+	font-family: 'Lobster';
+}
+
+.middle_title {
+	padding: 20px;
+}
+
+
+.item_row {
+	margin-left: auto;
+	margin-right: auto;
+}
+
+.item_container {
+	height: 200px;
+	width: 190px;
+	padding: 20px;
+	display: inline-block;
+}
+
+.item_title {
+	border-top-left-radius: 8px;
+	border-top-right-radius: 8px;
+	color: white;
+	background: #333;
+	text-align: center;
+	font-family: 'Raleway', 'Arial', sans-serif;
+	padding: 8px 0;
+}
+
+.bg_cart_button {
+	background: #333;
+	padding: 13px 0;
+	border-bottom-right-radius: 7px;
+	border-bottom-left-radius: 7px;
+}
+
+.add_to_cart_button {
+	background: #F5564E;
+	color: white;
+	font-size: 12px;
+	margin-left: 48px;
+	margin-right: auto;
+	padding: 5px 13px;
+	display: inline-block;
+	border-radius: 4px;
+	position: relative;
+	font-family: 'Raleway', 'Arial', sans-serif;
+}
+
+.product_image .price_tag {
+	font-family: 'Lobster';
+	position: relative;
+	padding: 0;
+	float: right;
+	bottom: 130px;
+	margin-right: 3px;
+}
+
+.pagination div{
+	margin-top: 50px;
+	display: inline-block;
+	vertical-align: middle;
+	font-family: 'Raleway', sans-serif;
+	padding: 0 5px;
+	position: relative;
+	top: 50%;
+	left: 50%;
+	clear: both;
+}
+
+.pagination {
+	display: block;
+	padding: 30px;
+}
+
+.footer {
+	margin-top: 90px;
+	background-color: #333;
+	padding: 50px;
+	font-family: 'Raleway', sans-serif;
+}
+
+.footer div {
+	margin: 5px;
+}
+
+.contact {
+	font-weight: 700;
+	color: #F5564E;
+	font-size: 25px;
+	text-align: center;
+}
+
+.contact_info img{
+	width: 26px;
+	height: 26px;
+	display: inline;
+}
+
+.contact_info {
+	color: white;
+	display: block;
+}
+
+.email_address {
+	display: inline-block;
+}
+
+.phone_number {
+	display: inline-block;
+}
